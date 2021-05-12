@@ -1,0 +1,11 @@
+@import 'svelte-materialify/src/styles/tools/colors';
+
+$primary-color: #212121;
+$secondary-color: #ffffff;
+$error-color:  #f44336;
+$success-color: #4caf50;
+
+
+.app {
+    min-height: 100vh;
+}
