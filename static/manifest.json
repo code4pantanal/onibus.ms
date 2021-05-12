@@ -1,19 +1,19 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "TODO",
-	"short_name": "TODO",
+	"name": "Onibus.ms",
+	"short_name": "msbus",
 	"display": "minimal-ui",
 	"start_url": "/",
 	"icons": [
 		{
-			"src": "logo-192.png",
+			"src": "bus_black_192x192.png",
 			"sizes": "192x192",
 			"type": "image/png",
 			"purpose": "any maskable"
 		},
 		{
-			"src": "logo-512.png",
+			"src": "bus_black_192x192.png",
 			"sizes": "512x512",
 			"type": "image/png",
 			"purpose": "any maskable"
