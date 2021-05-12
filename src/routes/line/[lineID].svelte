@@ -124,7 +124,7 @@
     </div>
 </div>
 
-<style>
+<style global>
     .bus-line-info {
         height: 89vh;
         width: 100%;
