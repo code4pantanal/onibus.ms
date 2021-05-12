@@ -82,7 +82,6 @@
 
 <style>
     :global(.bus-list) {
-        height: 92.6vh;
         width: 100%;
         overflow-y: auto;
     }

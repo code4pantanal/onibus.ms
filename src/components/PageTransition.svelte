@@ -5,7 +5,7 @@
   </script>
   
   {#key refresh}
-    <div
+    <div style="height:100vh"
       in:fly="{{ y: -50, duration: 250, delay: 300 }}"
       out:fly="{{ y: -50, duration: 250 }}" 
       >

@@ -11,8 +11,8 @@
 	</PageTransition>
 </MaterialApp>
 
-<style>
-	:global(.app) {
+<style global>
+	.app{
 		min-height: 100vh !important;
 	}
 </style>
