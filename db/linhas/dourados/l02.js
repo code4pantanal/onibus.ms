@@ -11,7 +11,7 @@ db.dourados.insertOne({
                     "tipo_dia": 0,
                     "hora_saida": "02:35",
                     "observacao": "Via Pantanal / Inicio no Monumento ao Colono"
-                }, ,
+                },
                 {
                     "tipo_dia": 0,
                     "hora_saida": "05:00",

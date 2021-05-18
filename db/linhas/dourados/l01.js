@@ -380,5 +380,5 @@ db.dourados.insertOne(
             }
         ],
         "shape": []
-    },
+    }
 )
