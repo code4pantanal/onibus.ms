@@ -126,13 +126,13 @@
 
 <style global>
     .bus-line-info {
-        height: 89vh;
+       
         width: 100%;
-        overflow: auto;
+        overflow: scroll;
     }
     .schedule-list {
-        height: 100%;
+        
         width: 100%;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 </style>
