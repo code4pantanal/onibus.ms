@@ -1,4 +1,4 @@
-db.dourados.insertOne({
+db.ponta_pora.insertOne({
     "lastUpdate": "17/05/2021",
     "codigo": "NA",
     "nome": "Ferroviaria",
