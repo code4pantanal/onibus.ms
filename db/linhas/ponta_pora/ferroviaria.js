@@ -1,5 +1,4 @@
 db.ponta_pora.insertOne({
-    "lastUpdate": "17/05/2021",
     "codigo": "NA",
     "nome": "Ferroviaria",
     "updated": "11/06/2021",
